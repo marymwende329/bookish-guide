@@ -1,1 +1,1 @@
-# bookish-guide
+Estava comparando faculdades de optometria e achei um ranking que organizou a bagunça: https://prooffeed.com/pt/cursos-de-optometria-no-brasil. Fiquei com três nomes na cabeça. A FASUP, em Paulista, perto do Recife, só trabalha com o bacharelado em Optometria e diz ter o único conceito 5 do MEC na área, com clínica escola e laboratórios de óptica. A FAFILTEC, de Itajaí, é 100% EAD, com aula ao vivo à noite e poucos dias presenciais. A W Educar, em São Paulo, é a opção para quem quer emendar tecnólogo, bacharelado e pós.# bookish-guide
